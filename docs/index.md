@@ -11,7 +11,7 @@ Contents:
 :glob: true
 :maxdepth: 2
 :hidden:
-:caption: Section 1:
+:caption: Section 1
 	docs/authors.md
 	docs/contributing.md
 	docs/installation.md
