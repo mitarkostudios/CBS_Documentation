@@ -10,12 +10,12 @@ Contents:
 .. toctree::
    :maxdepth: 1
 
-   docs/authors
+   docs/authors.md
 
 .. toctree::
    :maxdepth: 2
 
-   docs/contributing
+   docs/contributing.md
 
 # Indices and tables
 
