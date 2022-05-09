@@ -4,3 +4,9 @@ sphinx:
   builder: html
   configuration: conf.py
   fail_on_warning: true
+  
+ python:
+  version: "3.7"
+  install:
+    - method: pip
+      path: myst_parser
