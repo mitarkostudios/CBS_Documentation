@@ -7,18 +7,15 @@
 
 Contents:
 
-```{toctree}
-:glob: true
-:maxdepth: 2
-:hidden:
-:caption: Section 1
-	docs/authors.md
-	docs/contributing.md
-	docs/installation.md
-	docs/usage.md
+.. toctree::
+   :maxdepth: 1
 
-*
-```
+   docs/authors
+
+.. toctree::
+   :maxdepth: 2
+
+   docs/contributing
 
 # Indices and tables
 
