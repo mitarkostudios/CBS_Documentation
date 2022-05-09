@@ -1,24 +1,23 @@
-% Read the Docs Template documentation master file, created by
-% sphinx-quickstart on Tue Aug 26 14:19:49 2014.
-% You can adapt this file completely to your liking, but it should at least
-% contain the root `toctree` directive.
-
-# Welcome to Read the Docs Template's documentation!
+Welcome to documentation!
+=====================================
 
 Contents:
 
 .. toctree::
    :maxdepth: 1
+   :caption: Contents:
 
-   docs/authors.md
+   docs/authors
 
 .. toctree::
    :maxdepth: 2
+   :caption: Contents:
 
-   docs/contributing.md
+   docs/contributing
 
-# Indices and tables
+Indices and tables
+==================
 
-- {ref}`genindex`
-- {ref}`modindex`
-- {ref}`search`
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
