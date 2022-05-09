@@ -7,13 +7,13 @@ Contents:
    :maxdepth: 1
    :caption: Contents:
 
-   authors.md
+   authors
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   contributing.md
+   contributing
 
 Indices and tables
 ==================
