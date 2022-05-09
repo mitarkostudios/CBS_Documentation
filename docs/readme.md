@@ -1,3 +1,1 @@
-```{eval-rst}
-.. include:: ../README.rst
-```
+readme
